@@ -1,5 +1,8 @@
 # object-detection-using-dlib
 
+HERE I HAVE DETECTED COIN.
+YOU CAN DETECT ANY OBJECT BY GIVING ANNOTATIONS>
+
 ### For giving annotations
 $ python3 gather_annotations.py -d coins/ -a annot1.npy -i images1.npy
 
