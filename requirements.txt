@@ -1,0 +1,7 @@
+numpy==1.18.4
+opencv-contrib-python==4.4.0.42
+opencv-python==4.2.0.34
+openpyxl==2.4.9
+dlib==19.19.0
+imutils==0.5.3
+argparse
